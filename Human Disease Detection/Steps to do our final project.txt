@@ -1,0 +1,18 @@
+Steps to do our final project :
+
+1) install anaconda (run as administrator).
+2)install streamlit in anaconda .
+3)create new environment on anaconda.
+4) launch spyder.
+5) run following command on command prompt :
+
+a) pip install streamlit.
+b)pip install numpy.
+c)pip install pandas .
+d)pip install sklearn.
+e)pip install matplotlib.
+f)pip install pickle-mixin.
+
+6) run main programe command 
+
+streamlit run "path".
